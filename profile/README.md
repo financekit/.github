@@ -1,5 +1,5 @@
 <div align="center">
-<img width="900" src="../img/financekit.svg" alt="FinanceKit"/>
+<img width="900" src="./img/financekit.svg" alt="FinanceKit"/>
 </div>
 
 ---
